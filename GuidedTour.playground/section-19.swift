@@ -8,3 +8,14 @@ for score in individualScores {
     }
 }
 teamScore
+
+let ages = [14, 16, 45, 44]
+var totalAge = ages[0]+ages[1]+ages[2]+ages[3]
+var averageAge = totalAge/ages.count
+
+
+
+
+
+
+
