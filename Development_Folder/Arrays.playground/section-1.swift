@@ -14,7 +14,7 @@ todo [4]
 todo.count
 
 
-todo.append("Edit Blog Post")
+todo.append("Edit My Blog Post")
 
 todo
 
